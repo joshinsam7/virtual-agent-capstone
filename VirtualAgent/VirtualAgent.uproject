@@ -81,6 +81,10 @@
 		{
 			"Name": "GeoReferencing",
 			"Enabled": true
+		},
+		{
+			"Name": "MagnetometerAndroid",
+			"Enabled": false
 		}
 	]
 }
